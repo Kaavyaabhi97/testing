@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "myapp",
+=======
+  "name": "app1",
+>>>>>>> 3a7608e12a28da2fc23cadce5a400623a27216ce
   "private": true,
   "dependencies": {}
 }

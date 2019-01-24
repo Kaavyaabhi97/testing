@@ -1,4 +1,5 @@
 class ApplicationController < ActionController::Base
+<<<<<<< HEAD
 protect_from_forgery with: :exception
 before_action :authorize
 proctected
@@ -11,4 +12,6 @@ def authorize
 
 
 
+=======
+>>>>>>> 3a7608e12a28da2fc23cadce5a400623a27216ce
 end
